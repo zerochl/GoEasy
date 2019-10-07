@@ -11,4 +11,5 @@
 
 ### 联系方式：QQ：975804495
 ### QQ群：186305789   - 疯狂的程序员
-### 作者个人兴趣网站，[zerochl接码平台](http://xinghai.party)
+### 作者个人兴趣网站，[zero接码平台](https://xinghai.party)
+### 作者个人兴趣网站，[猿指](https://blog.xinghai.party)
