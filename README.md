@@ -9,7 +9,6 @@
 <p>接口并不完善，有兴趣的可以大家一起开发</p>
 <p>目前卡在EditView中弹出输入法，要做到android与ios共用一种方式不知如何下手。</p>
 
-### 联系方式：QQ：975804495
 ### QQ群：186305789   - 疯狂的程序员
-### 作者个人兴趣网站，[zero接码平台](https://xinghai.party)
-### 作者个人兴趣网站，[猿指](https://blog.xinghai.party)
+### 个人兴趣网站，[zero接码平台](https://xinghai.party)
+### 个人兴趣网站，[猿指](https://blog.xinghai.party)
